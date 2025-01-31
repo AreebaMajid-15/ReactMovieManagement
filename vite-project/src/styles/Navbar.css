@@ -1,0 +1,15 @@
+
+.navbar{
+    display: grid;
+    grid-template-columns: 80% 20%;
+    background-color: rgb(153, 153, 244);
+    color: white;
+
+}
+
+.navbar-left{
+    color: blueviolet;
+}
+.navbar-left{
+    color: blueviolet;
+}
